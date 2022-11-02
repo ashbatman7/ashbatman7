@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ashbatman7
 - 👀 I’m interested in coding language 
-- 🌱 I’m currently learning engineer 
+- 🌱 I’m currently learning engineering 
 - 💞️ I’m looking to collaborate on coding language 
 - 📫 How to reach me 
      Through my mail 
